@@ -13,7 +13,7 @@ public class patterm
 {
   public static void main (String[]args)
   {
-	int n = 6;
+	int n = 5;
 	int nsp = 2 * n - 3;
 	int nst = 1;
 	int nst2 = 1;
