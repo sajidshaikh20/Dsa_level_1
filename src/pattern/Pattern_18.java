@@ -1,5 +1,13 @@
 package pattern;
 
+// *       *       *       *       *       *       *
+//         *                               *
+//                 *               *
+//                         *
+//                 *       *       *
+//         *       *       *       *       *
+// *       *       *       *       *       *       *
+
 public class Pattern_18 {
     public  static void main(String[]args){
 
@@ -7,7 +15,6 @@ public class Pattern_18 {
         int n = 7;
         int nst = n;
         int nsp = 0;
-        int isp = n / 2;
         for (int i = 1; i <= n; i++)
           {
     
