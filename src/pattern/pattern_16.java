@@ -17,7 +17,7 @@ public class pattern_16
     for(int i = 1; i<=n; i++){
     
         for(int j = 1; j<=nsp; j++){
-            if (i==n/2) {
+            if (i==n/2 +1) {
                 System.out.print("*\t");
 
             } else {
