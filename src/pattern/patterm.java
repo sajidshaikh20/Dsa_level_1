@@ -7,12 +7,12 @@ package pattern;
 1       2       3       4                               4       3       2       1
 1       2       3       4       5               5       4       3       2       1
 1       2       3       4       5       6       5       4       3       2       1*/
-import java.util.Scanner;
+
+
 public class patterm
 {
   public static void main (String[]args)
   {
-	Scanner src = new Scanner (System.in);
 	int n = 6;
 	int nsp = 2 * n - 3;
 	int nst = 1;
